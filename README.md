@@ -1,2 +1,2 @@
 # lxctandang.github.io
-学习总结
+珍惜每一分一秒的时光。
