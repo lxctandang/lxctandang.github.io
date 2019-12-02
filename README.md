@@ -1,2 +1,2 @@
 # lxctandang.github.io
-个人博客
+学习总结
